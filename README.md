@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I integrate design execution, cognitive science, and business strategy to design products that scale and deliver impact. My philosophy is rooted in behavioral science and shaped by emergent tech such as AI and mixed reality.I’ve led design and front-end development projects for Fortune 500 enterprises and global clients such as HP, Kodak, GE, and Saris, as well as lean startups such as Ascend Hiring and Kodely, with outcomes ranging from revenue growth to user adoption in the hundreds of thousands.
+<p align="left">I integrate design execution, cognitive science, and business strategy to design products that scale and deliver impact. My philosophy is rooted in behavioral science and shaped by emergent tech such as AI and mixed reality. I’ve led design and front-end development projects for Fortune 500 enterprises and global clients such as HP, Kodak, GE, and Saris, as well as lean startups such as Ascend Hiring and Kodely, with outcomes ranging from revenue growth to user adoption in the hundreds of thousands.
   
   With a Cognitive Science foundation at the Rutgers Honors College, I am pursuing a Master’s in Integrated Product Design at the University of Pennsylvania. The program uniquely combines Penn Engineering, Design, and Wharton to further my skills crafting human-centric designs that integrate behavioral insight and business strategy.</p>
 
